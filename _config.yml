@@ -4,7 +4,7 @@ url: azure-blockchain-workbench.streamdata.gallery
 tag: Azure Blockchain Workbench
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: azure-blockchain-workbench
 github_branch: master
 collections:
